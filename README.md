@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1964&auto=format&fit=crop" alt="Bilal Hasan Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/bhasan26/bhasan26/main/header.png" alt="Bilal Hasan Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Bilal Hasan</h1>
