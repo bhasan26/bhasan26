@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type/waving&color=0:4285F4,100:34A853&height=200&section=header&text=Welcome%20to%20my%20Space%20👋&fontSize=40&animation=fadeIn" alt="Header Banner" />
+  <img src="https://raw.githubusercontent.com/bhasan26/bhasan26/main/header.png" onerror="this.src='https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1964&auto=format&fit=crop'" alt="Bilal Hasan Banner" width="100%" />
 </p>
 
 ## 🚀 About Me
