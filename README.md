@@ -28,8 +28,8 @@ I am an upcoming senior in college focusing on **Web Development**, **Cloud Arch
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhasan26&show_icons=true&theme=tokyonight&count_private=true" alt="Bilal Hasan's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhasan26&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats-alpha.vercel.app/api?username=bhasan26&show_icons=true&theme=tokyonight&count_private=true" alt="Bilal Hasan's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=bhasan26&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
 </p>
 
 <p align="center">
