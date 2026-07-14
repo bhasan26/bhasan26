@@ -14,12 +14,12 @@
 
 I'm a Computer Science student in the **George F. Whitworth Honors Program** at Whitworth University, graduating May 2027. I'm focused on **Backend Development**, **AI & Multimodal Voice Agents**, **Cloud Architecture**, and **SEO-driven content creation**. I love building clean web experiences, managing server networks, and optimizing platforms for maximum visibility.
 
-* 🔬 **Research & Teaching:** Honors-tier student researcher exploring practical ML/software systems, and undergraduate Teaching Assistant at Whitworth University.
-* 🏭 **Industry Experience:** Computer Science/Engineering Intern at **Kaiser Aluminum**, applying software engineering and networking skills to industrial systems.
-* 🌐 **Blogging & SEO:** I run and optimize platforms like the **Abroad Scholarships Hub** and dedicated sports/cricket sites.
-* ☁️ **Cloud & Infrastructure:** Currently diving deep into Google Cloud Platform (GCP) and preparing for the **Google Associate Cloud Engineer (ACE)** certification.
-* 🛠️ **Systems & Networking:** Experienced in collaborating with network teams to manage servers and network switches.
-* 🚀 **Community:** Lead Organizer for **GDG on Campus** (Google Developer Group), running workshops and hackathons on Gemini API, GCP, and AI voice agents.
+*  **Research & Teaching:** Honors-tier student researcher exploring practical ML/software systems, and undergraduate Teaching Assistant at Whitworth University.
+*  **Industry Experience:** Computer Science/Engineering Intern at **Kaiser Aluminum**, applying software engineering and networking skills to industrial systems.
+*  **Blogging & SEO:** I run and optimize platforms like the **Abroad Scholarships Hub** and dedicated sports/cricket sites.
+*  **Cloud & Infrastructure:** Currently diving deep into Google Cloud Platform (GCP) and preparing for the **Google Associate Cloud Engineer (ACE)** certification.
+*  **Systems & Networking:** Experienced in collaborating with network teams to manage servers and network switches.
+* **Community:** Lead Organizer for **GDG on Campus** (Google Developer Group), running workshops and hackathons on Gemini API, GCP, and AI voice agents.
 
 ---
 
